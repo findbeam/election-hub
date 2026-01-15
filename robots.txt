@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://election-hub.pages.dev/sitemap.xml
