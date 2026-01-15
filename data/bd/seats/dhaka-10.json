@@ -1,0 +1,14 @@
+{
+  "seat_id": "BD-183",
+  "name": "Dhaka-10",
+  "country": "Bangladesh",
+  "language": "en",
+  "type": "parliamentary_constituency",
+  "map": "/data/bd/seats/dhaka-10.geojson",
+  "sources": [
+    {
+      "title": "Election Commission Bangladesh",
+      "url": "https://www.ecs.gov.bd/"
+    }
+  ]
+}
