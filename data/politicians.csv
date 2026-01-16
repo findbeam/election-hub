@@ -1,16 +1,1 @@
-politician_id,
-primary_name,
-native_name,
-native_script,
-gender,
-date_of_birth,
-date_of_death,
-birth_place_text,
-primary_citizenship,
-other_citizenships,
-profession_primary,
-profession_secondary,
-education_level,
-first_known_political_year,
-source_url,
-last_updated
+politician_id,primary_name,native_name,native_script,gender,date_of_birth,date_of_death,birth_place_text,primary_citizenship,other_citizenships,profession_primary,profession_secondary,education_level,first_known_political_year,source_url,last_updated
