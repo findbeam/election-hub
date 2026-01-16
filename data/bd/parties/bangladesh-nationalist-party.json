@@ -1,0 +1,75 @@
+{
+  "id": "bnp",
+  "slug": "bangladesh-nationalist-party",
+  "short_name": "BNP",
+  "name": "Bangladesh Nationalist Party",
+  "country": "Bangladesh",
+  "language": "en",
+  "type": "political_party",
+  "status": "active",
+
+  "founded": {
+    "year": 1978,
+    "by": "Ziaur Rahman"
+  },
+
+  "registration": {
+    "authority": "Election Commission Bangladesh",
+    "status": "registered"
+  },
+
+  "headquarters": {
+    "city": "Dhaka",
+    "country": "Bangladesh"
+  },
+
+  "leadership": [
+    {
+      "role": "Chairperson",
+      "name": "Khaleda Zia",
+      "from": "1984",
+      "to": "Present"
+    }
+  ],
+
+  "parliamentary_participation": {
+    "house": "Jatiya Sangsad",
+    "participation_type": "general_and_reserved",
+    "notes": "Parliamentary participation varies by election cycle."
+  },
+
+  "symbols": [
+    {
+      "type": "election_symbol",
+      "name": "Sheaf of Paddy"
+    }
+  ],
+
+  "related_entities": {
+    "student_wing": "Jatiyatabadi Chhatra Dal",
+    "youth_wing": "Jatiyatabadi Jubo Dal",
+    "labor_wing": "Jatiyatabadi Sramik Dal"
+  },
+
+  "notes": [
+    "One of the major registered political parties in Bangladesh.",
+    "Has participated in multiple parliamentary election cycles since its founding."
+  ],
+
+  "sources": [
+    {
+      "title": "Election Commission Bangladesh – Registered Political Parties",
+      "url": "https://www.ecs.gov.bd/"
+    },
+    {
+      "title": "Bangladesh Parliament",
+      "url": "https://www.parliament.gov.bd/"
+    },
+    {
+      "title": "Public reference profile",
+      "url": "https://en.wikipedia.org/wiki/Bangladesh_Nationalist_Party"
+    }
+  ],
+
+  "last_updated": "2026-01-16"
+}
