@@ -1,29 +1,35 @@
 {
   "id": "rumeen-farhana",
+  "slug": "rumeen-farhana",
   "name": "Rumeen Farhana",
   "country": "Bangladesh",
   "language": "en",
   "gender": "female",
-  "profession": [
+
+  "professions": [
     "Barrister",
     "Politician"
   ],
+
   "roles": [
     {
       "title": "Member of Parliament",
-      "seat": "Reserved Women Seat",
       "house": "Jatiya Sangsad",
+      "seat_type": "reserved_women_seat",
       "from": "2019",
       "to": "2024"
     }
   ],
+
   "party_affiliations": [
     {
-      "party": "Bangladesh Nationalist Party",
+      "party_id": "bnp",
+      "party_name": "Bangladesh Nationalist Party",
       "from": "Unknown",
       "to": "Present"
     }
   ],
+
   "education": [
     {
       "degree": "Barrister-at-Law",
@@ -31,11 +37,13 @@
       "country": "United Kingdom"
     }
   ],
+
   "elections_contested": [],
+
   "notes": [
-    "Served as a Member of Parliament from a reserved seat for women.",
-    "Known for legal advocacy and parliamentary speeches."
+    "Served as a Member of Parliament from a reserved seat for women in the Jatiya Sangsad."
   ],
+
   "sources": [
     {
       "title": "Bangladesh Parliament Members Directory",
@@ -46,9 +54,10 @@
       "url": "https://www.bnpbd.org/"
     },
     {
-      "title": "Public news profiles",
+      "title": "Public reference profile",
       "url": "https://en.wikipedia.org/wiki/Rumeen_Farhana"
     }
   ],
+
   "last_updated": "2026-01-16"
 }
