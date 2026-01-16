@@ -1,10 +1,21 @@
 {
-  "seat_id": "BD-183",
+  "id": "BD-183",
+  "slug": "dhaka-10",
   "name": "Dhaka-10",
+  "type": "parliamentary_constituency",
   "country": "Bangladesh",
   "language": "en",
-  "type": "parliamentary_constituency",
-  "map": "/data/bd/seats/dhaka-10.geojson",
+  "division": "Dhaka",
+  "areas": [
+    "Dhanmondi",
+    "Hazaribagh",
+    "New Market",
+    "Kalabagan"
+  ],
+  "map": {
+    "geojson": "/data/bd/seats/dhaka-10.geojson",
+    "last_updated": "2026-01-01"
+  },
   "sources": [
     {
       "title": "Election Commission Bangladesh",
